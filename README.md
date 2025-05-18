@@ -1,5 +1,6 @@
 # React + Vite
-
+edited using github 
+changes made by dev2 who is varient and trying to create conflict
 Apart from all these i am using this repo to practice git collaboration 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

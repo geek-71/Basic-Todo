@@ -1,5 +1,5 @@
 # React + Vite
-
+edited using github 
 changes made by dev2 who is varient and trying to create conflict
 Apart from all these i am using this repo to practice git collaboration 
 
